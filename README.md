@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="styles.css">
 :octocat: Welcome to my **Github**
 - 🔭 Não estou trabalhando
 - 🏫 Etec SJC - 1°DS
