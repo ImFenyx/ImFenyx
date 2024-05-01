@@ -15,4 +15,4 @@
 [![CSS Badge](https://img.shields.io/badge/CSS-9933CC?style=flat&logo=css3&logoColor=black)](https://pt.wikipedia.org/wiki/CSS)
 #
   <img width="400px" height='200px' align="left" src="https://github-readme-stats.vercel.app/api?username=ImFenyx&count_private=true&show_icons=true&theme=midnight-purple" />
-  <img height='200px' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImFenyx&layout=compact&theme=midnight-purple" />
+  <img width="300px" height='200px' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImFenyx&layout=compact&theme=midnight-purple" />
