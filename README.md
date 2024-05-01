@@ -14,9 +14,7 @@
 [![HTML Badge](https://img.shields.io/badge/HTML-9933CC?style=flat&logo=html5&logoColor=black)](https://pt.wikipedia.org/wiki/HTML)
 [![CSS Badge](https://img.shields.io/badge/CSS-9933CC?style=flat&logo=css3&logoColor=black)](https://pt.wikipedia.org/wiki/CSS)
 #
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height='200px' src="https://github-readme-stats.vercel.app/api?username=ImFenyx&count_private=true&show_icons=true&theme=midnight-purple" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImFenyx&layout=compact&theme=midnight-purple" />
-</a>
+<center>
+  <img height='200px' src="https://github-readme-stats.vercel.app/api?username=ImFenyx&count_private=true&show_icons=true&theme=midnight-purple" />
+  <img height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImFenyx&layout=compact&theme=midnight-purple" />
+</center>
