@@ -1,5 +1,5 @@
 ## Welcome to my Github :octocat:
-<img align="right" src="https://github.com/ImFenyx/ImFenyx/assets/103691581/1d7e8180-48a1-49b4-aaf5-ae3746e998a8" width="25%" height="300px"></img>
+<img align="right" src="https://github.com/ImFenyx/ImFenyx/assets/103691581/1d7e8180-48a1-49b4-aaf5-ae3746e998a8" width="25%" height="280px"></img>
 
 - 🔭 Não estou trabalhando
 - 🏫 Etec SJC - 1°DS
@@ -14,11 +14,9 @@
 [![HTML Badge](https://img.shields.io/badge/HTML-9933CC?style=flat&logo=html5&logoColor=black)](https://pt.wikipedia.org/wiki/HTML)
 [![CSS Badge](https://img.shields.io/badge/CSS-9933CC?style=flat&logo=css3&logoColor=black)](https://pt.wikipedia.org/wiki/CSS)
 #
-<center>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height='200px' src="https://github-readme-stats.vercel.app/api?username=ImFenyx&count_private=true&show_icons=true&theme=midnight-purple" />
+  <img align="left" height='200px' src="https://github-readme-stats.vercel.app/api?username=ImFenyx&count_private=true&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImFenyx&layout=compact&theme=midnight-purple" />
+  <img align="righy" height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImFenyx&layout=compact&theme=midnight-purple" />
 </a>
-</center>
