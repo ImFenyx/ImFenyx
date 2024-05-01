@@ -18,5 +18,5 @@
   <img align="left" height='200px' src="https://github-readme-stats.vercel.app/api?username=ImFenyx&count_private=true&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="righy" height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImFenyx&layout=compact&theme=midnight-purple" />
+  <img align="right" height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImFenyx&layout=compact&theme=midnight-purple" />
 </a>
