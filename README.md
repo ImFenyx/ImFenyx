@@ -8,10 +8,10 @@
 - :godmode: Curiosidade: Eu já fui teoricamente "Fullstack" desde criança, fazendo algoritimos .bat no Windows e inspecionando sites em html
 
 ### Aprendendo 🌻
-[![JavaScript Badge](https://img.shields.io/badge/Javascript-9933CC?style=flat&logo=javascript&logoColor=black)](https://pt.wikipedia.org/wiki/JavaScript)
-[![Python Badge](https://img.shields.io/badge/Python-9933CC?style=flat&logo=python&logoColor=black)](https://pt.wikipedia.org/wiki/Python)
-[![HTML Badge](https://img.shields.io/badge/HTML-9933CC?style=flat&logo=html5&logoColor=black)](https://pt.wikipedia.org/wiki/HTML)
-[![CSS Badge](https://img.shields.io/badge/CSS-9933CC?style=flat&logo=css3&logoColor=black)](https://pt.wikipedia.org/wiki/CSS)
+[![JavaScript Badge](https://img.shields.io/badge/Javascript-9933CC?style=flat&logo=javascript&logoColor=white)](https://pt.wikipedia.org/wiki/JavaScript)
+[![Python Badge](https://img.shields.io/badge/Python-9933CC?style=flat&logo=python&logoColor=white)](https://pt.wikipedia.org/wiki/Python)
+[![HTML Badge](https://img.shields.io/badge/HTML-9933CC?style=flat&logo=html5&logoColor=white)](https://pt.wikipedia.org/wiki/HTML)
+[![CSS Badge](https://img.shields.io/badge/CSS-9933CC?style=flat&logo=css3&logoColor=white)](https://pt.wikipedia.org/wiki/CSS)
 #
 ### Estatísticas + Streak 🥇
 <div>
