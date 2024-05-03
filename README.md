@@ -1,4 +1,6 @@
-<img align="center" src="fischlbg2.jpg">
+<header>
+<img align="center" width="100%" src="fischlbg4.jpeg"></img>
+</header>
 <h1 align="center"> Welcome to my Github :octocat: </h1>
 <img align="right" src="https://github.com/ImFenyx/ImFenyx/assets/103691581/1d7e8180-48a1-49b4-aaf5-ae3746e998a8" width="25%" height="270px"></img>
 <ul>
