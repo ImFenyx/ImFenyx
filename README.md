@@ -1,11 +1,12 @@
 <h1 align="center"> Welcome to my Github :octocat: </h1>
 <img align="right" src="https://github.com/ImFenyx/ImFenyx/assets/103691581/1d7e8180-48a1-49b4-aaf5-ae3746e998a8" width="25%" height="270px"></img>
-
-- 🔭 Não estou trabalhando
-- 🏫 Etec SJC - 1°DS
-- 🔮 Pretendo ser Full Stack + Mobile dev
-- 📫 Como me encontrar: [Email](mailto:imfenyx.dev@outlook.com)
-- :godmode: Curiosidade: Eu já fui teoricamente "Fullstack" desde criança, fazendo algoritimos .bat no Windows e inspecionando sites em html
+<ul>
+<li><h3>🔭 Não estou trabalhando</h3></li>
+<li><h3>🏫 Etec SJC - 1°DS</h3></li>
+<li><h3>🔮 Pretendo ser Full Stack + Mobile dev</h3></li>
+<li><h3>📫 Como me encontrar: <a href="mailto:imfenyx.dev@outlook.com">Email</a></h3></li>
+<li><h3>:godmode: Curiosidade: Eu já fui teoricamente "Fullstack" desde criança, fazendo algoritimos .bat no Windows e inspecionando sites em html</h3></li>
+</ul>
 
 ### Aprendendo 🌻
 [![JavaScript Badge](https://img.shields.io/badge/Javascript-9933CC?style=flat&logo=javascript&logoColor=white)](https://pt.wikipedia.org/wiki/JavaScript)
