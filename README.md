@@ -5,7 +5,7 @@
 <li>🔭 Não estou trabalhando</li>
 <li>🏫 Etec SJC - 1°DS</li>
 <li>🔮 Pretendo ser Full Stack + Mobile dev</li>
-<li>📫 Como me encontrar: <a href="mailto:imfenyx.dev@outlook.com"><img align="center" src="https://img.shields.io/badge/EMAIL-D14836?&style=for-the-badge&logo=gmail&logoColor=white&color=purple"></a></li>
+<li>📫 Como me encontrar: <a href="mailto:imfenyx.dev@outlook.com"><img align="center" src="https://img.shields.io/badge/EMAIL-D14836?&style=for-the-badge&logo=gmail&logoColor=white&color=9933CC"></a></li>
 <li>:godmode: Curiosidade: Eu já fui teoricamente "Fullstack" desde criança, fazendo algoritimos .bat no Windows e inspecionando sites em HTML</li>
 </ul>
 
