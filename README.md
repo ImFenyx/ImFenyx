@@ -20,9 +20,14 @@
   <img width="400px" height='200px' align="left" src="https://github-readme-stats.vercel.app/api?username=ImFenyx&count_private=true&show_icons=true&theme=midnight-purple" />
   <img width="300px" height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImFenyx&layout=compact&theme=midnight-purple" />
   <img width="720px" src="https://streak-stats.demolab.com?user=ImFenyx&theme=midnight-purple&hide_border=false&border_radius=5&locale=pt_BR">
-  </div>
-  
-## Visitantes
+</div>
+
+#
+### Contribuições 🌱
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImFenyx&theme=tokyo-night&radius=100">
+
+
+### Visitantes 🚪
 <img align="center" src="https://count.getloli.com/get/@ImFenyx?theme=rule34">
 </div>
 
