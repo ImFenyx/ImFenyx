@@ -1,4 +1,3 @@
-<img align="center" width="100%" src="fischlbg4.jpeg"></img>
 <div>
 <h1> Welcome to my Github :octocat: </h1>
 <img align="right" src="https://github.com/ImFenyx/ImFenyx/assets/103691581/1d7e8180-48a1-49b4-aaf5-ae3746e998a8" width="25%" height="270px"></img>
@@ -6,7 +5,7 @@
 <li>🔭 Não estou trabalhando</li>
 <li>🏫 Etec SJC - 1°DS</li>
 <li>🔮 Pretendo ser Full Stack + Mobile dev</li>
-<li>📫 Como me encontrar: <a href="mailto:imfenyx.dev@outlook.com">Email</a></li>
+<li>📫 Como me encontrar: <a href="mailto:imfenyx.dev@outlook.com"><img align="center" src="https://img.shields.io/badge/EMAIL-D14836?&style=for-the-badge&logo=gmail&logoColor=white&color=purple"></a></li>
 <li>:godmode: Curiosidade: Eu já fui teoricamente "Fullstack" desde criança, fazendo algoritimos .bat no Windows e inspecionando sites em HTML</li>
 </ul>
 
