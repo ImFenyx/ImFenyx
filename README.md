@@ -15,6 +15,7 @@
 [![Python Badge](https://img.shields.io/badge/Python-9933CC?style=flat&logo=python&logoColor=white)](https://pt.wikipedia.org/wiki/Python)
 [![HTML Badge](https://img.shields.io/badge/HTML-9933CC?style=flat&logo=html5&logoColor=white)](https://pt.wikipedia.org/wiki/HTML)
 [![CSS Badge](https://img.shields.io/badge/CSS-9933CC?style=flat&logo=css3&logoColor=white)](https://pt.wikipedia.org/wiki/CSS)
+[![React Badge](https://img.shields.io/badge/React-9933CC?style=flat&logo=react&logoColor=white)](https://pt.wikipedia.org/wiki/React_(JavaScript))
 #
 ### Estatísticas + Streak 🥇
 <div>
@@ -28,7 +29,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImFenyx&theme=tokyo-night&radius=100">
 
 
-### Visitantes 🚪
+### Visitas 🚪
 <img align="center" src="https://count.getloli.com/get/@ImFenyx?theme=rule34">
 </div>
 
