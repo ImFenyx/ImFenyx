@@ -19,6 +19,14 @@
 [![CSS Badge](https://img.shields.io/badge/CSS-9933CC?style=flat&logo=css3&logoColor=white)](https://pt.wikipedia.org/wiki/CSS)
 [![React Badge](https://img.shields.io/badge/React-9933CC?style=flat&logo=react&logoColor=white)](https://pt.wikipedia.org/wiki/React_(JavaScript))
 #
+
+### Novo participante da <a href="https://www.instagram.com/etechnology_8276">Etechnology #8246</a> - Equipe da <a href="https://www.firstinspires.org/">First</a> 💜
+<br>
+<img width="25%" src="https://avatars.githubusercontent.com/u/148716998">
+<img height="218.5px" src="https://github.com/ImFenyx/ImFenyx/assets/103691581/a987cad0-8bd0-4f6e-8b81-10ba8b7d4f07">
+
+#
+
 ### Estatísticas + Streak 🥇
 <div>
   <img width="400px" height='200px' align="left" src="https://github-readme-stats.vercel.app/api?username=ImFenyx&count_private=true&show_icons=true&theme=midnight-purple" />
