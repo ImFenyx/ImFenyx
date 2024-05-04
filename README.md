@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9933CC&height=120&section=header"/>
+<a href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=500&pause=500&color=9933CC&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Fenyx;Welcome+to+my+Github!" alt="Typing SVG" /></a>
 <div>
-<h1 align="center"> Welcome to my Github :octocat: </h1>
+  
+#
 <img align="right" src="https://github.com/ImFenyx/ImFenyx/assets/103691581/1d7e8180-48a1-49b4-aaf5-ae3746e998a8" width="25%" height="270px"></img>
 <ul>
 <li>🔭 Não estou trabalhando</li>
@@ -33,3 +35,4 @@
 <img align="center" src="https://count.getloli.com/get/@ImFenyx?theme=rule34">
 </div>
 
+ 
