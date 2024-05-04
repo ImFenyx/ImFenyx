@@ -1,5 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9933CC&height=120&section=header"/>
 <div>
-<h1> Welcome to my Github :octocat: </h1>
+<h1 align="center"> Welcome to my Github :octocat: </h1>
 <img align="right" src="https://github.com/ImFenyx/ImFenyx/assets/103691581/1d7e8180-48a1-49b4-aaf5-ae3746e998a8" width="25%" height="270px"></img>
 <ul>
 <li>🔭 Não estou trabalhando</li>
