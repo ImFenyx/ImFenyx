@@ -22,8 +22,8 @@
 
 ### Novo participante da <a href="https://www.instagram.com/etechnology_8276">Etechnology #8246</a> - Equipe da <a href="https://www.firstinspires.org/">First</a> 💜
 <br>
-<img width="25%" src="https://avatars.githubusercontent.com/u/148716998">
-<img height="218.5px" src="https://github.com/ImFenyx/ImFenyx/assets/103691581/a987cad0-8bd0-4f6e-8b81-10ba8b7d4f07">
+<img width="20%" src="https://avatars.githubusercontent.com/u/148716998">
+<img height="118.93px" src="https://github.com/ImFenyx/ImFenyx/assets/103691581/a987cad0-8bd0-4f6e-8b81-10ba8b7d4f07">
 
 #
 
