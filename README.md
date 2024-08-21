@@ -43,7 +43,7 @@
 
 
 ### Visitas 🚪
-<img align="center" src="https://count.getloli.com/get/@ImFenyx?theme=rule34">
+<img src="https://count.getloli.com/get/@ImFenyx?theme=rule34">
 </div>
 
  
