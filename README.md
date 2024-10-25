@@ -1,26 +1,22 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9933CC&height=120&section=header"/>
-<a href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=500&pause=500&color=9933CC&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Fenyx;Welcome+to+my+Github!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=500&color=9933CC&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Fenyx;Welcome+to+my+Github!" alt="Typing SVG" /></a>
 <div>
-  <center>
-  
-</center>
-
 
 #
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ns73zcurunyzgpjd7belti5omm&redirect=true"><img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ns73zcurunyzgpjd7belti5omm&cover_image=true&theme=default&show_offline=false&background_color=320064&interchange=true&bar_color=9933cc&bar_color_cover=false" width="25%"/></a>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ns73zcurunyzgpjd7belti5omm&redirect=true"><img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ns73zcurunyzgpjd7belti5omm&cover_image=true&theme=default&show_offline=false&background_color=66278b&interchange=true&bar_color=320064&bar_color_cover=false" width="25%"/></a>
 <li>🔭 Não estou trabalhando</li>
 <li>🏫 Etec SJC - 1°DS</li>
 <li>🔮 Pretendo ser Full Stack + Mobile dev</li>
-<li>📫 Como me encontrar: <a href="mailto:imfenyx.dev@outlook.com"><img align="center" src="https://img.shields.io/badge/EMAIL-D14836?&style=for-the-badge&logo=gmail&logoColor=white&color=9933CC"></a></li>
-<li>:godmode: Curiosidade: Eu já fui teoricamente "Fullstack" desde criança, fazendo algoritimos .bat no Windows e inspecionando sites em HTML</li>
+<li>📫 Como me encontrar: <a href="mailto:imfenyx.dev@outlook.com"><img align="center" src="https://img.shields.io/badge/EMAIL-D14836?&style=for-the-badge&logo=gmail&logoColor=white&color=66278b"></a></li>
+<li>:godmode: Quando criança, começava a inspecionar códigos HTML dos sites por curiosidade e otimizar o windows através de algoritmos em Batch. Com a paixão pelo frontend/backend, estudo </li>
 </ul>
 
 ### Aprendendo 🌻
-[![JavaScript Badge](https://img.shields.io/badge/Javascript-9933CC?style=flat&logo=javascript&logoColor=white)](https://pt.wikipedia.org/wiki/JavaScript)
-[![Python Badge](https://img.shields.io/badge/Python-9933CC?style=flat&logo=python&logoColor=white)](https://pt.wikipedia.org/wiki/Python)
-[![HTML Badge](https://img.shields.io/badge/HTML-9933CC?style=flat&logo=html5&logoColor=white)](https://pt.wikipedia.org/wiki/HTML)
-[![CSS Badge](https://img.shields.io/badge/CSS-9933CC?style=flat&logo=css3&logoColor=white)](https://pt.wikipedia.org/wiki/CSS)
-[![React Badge](https://img.shields.io/badge/React-9933CC?style=flat&logo=react&logoColor=white)](https://pt.wikipedia.org/wiki/React_(JavaScript))
+[![JavaScript Badge](https://img.shields.io/badge/Javascript-66278b?style=flat&logo=javascript&logoColor=white)](https://pt.wikipedia.org/wiki/JavaScript)
+[![Python Badge](https://img.shields.io/badge/Python-66278b?style=flat&logo=python&logoColor=white)](https://pt.wikipedia.org/wiki/Python)
+[![HTML Badge](https://img.shields.io/badge/HTML-66278b?style=flat&logo=html5&logoColor=white)](https://pt.wikipedia.org/wiki/HTML)
+[![CSS Badge](https://img.shields.io/badge/CSS-66278b?style=flat&logo=css3&logoColor=white)](https://pt.wikipedia.org/wiki/CSS)
+[![React Badge](https://img.shields.io/badge/React-66278b?style=flat&logo=react&logoColor=white)](https://pt.wikipedia.org/wiki/React_(JavaScript))
 #
 
 ### Novo participante da <a href="https://www.instagram.com/etechnology_8276">Etechnology #8246</a> - Equipe da <a href="https://www.firstinspires.org/">First</a> 💜
@@ -39,11 +35,11 @@
 
 #
 ### Contribuições 🌱
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImFenyx&theme=tokyo-night&radius=100">
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ImFenyx&bg_color=000000&color=9745f5&line=9745f5&point=737272&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Visitas 🚪
-<img src="https://count.getloli.com/get/@ImFenyx?theme=rule34">
+![https://count.getloli.com/@:ImFenyx](https://count.getloli.com/@ImFenyx?name=ImFenyx&theme=random&padding=8&offset=0&scale=1&pixelated=0&darkmode=auto)
+
 </div>
 
  
