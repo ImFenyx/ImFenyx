@@ -24,30 +24,31 @@
   <tr>
     <td align="center" width="96">
         <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src=".github/img/html5.svg" width="48" height="48" alt="HTML" />
+        <img src="github/img/html5.svg" width="48" height="48" alt="HTML" />
         </a>
+        <span>HTML</span>
     </td>
     <td align="center" width="96">
       <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-      <img src=".github/img/css3.svg" width="48" height="48" alt="CSS" />
+      <img src="github/img/css3.svg" width="48" height="48" alt="CSS" />
       </a>
       <span>CSS</span>
     </td>
     <td align="center" width="96">
       <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src=".github/img/javascript.svg" width="48" height="48" alt="JavaScript" />
+      <img src="github/img/javascript.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <span>JavaScript</span>
     </td>
      <td align="center" width="96">
       <a target="_blank" href="https://getbootstrap.com/">
-      <img src=".github/img/bootstrap.svg" width="48" height="48" alt="BootStrap" />
+      <img src="github/img/bootstrap.svg" width="48" height="48" alt="BootStrap" />
       </a>
       <span>Boostrap</span>
     </td>    
       <td align="center" width="96">
       <a target="_blank" href="https://www.mysql.com/">
-      <img src=".github/img/mysql.png" width="48" height="48" alt="MySQL" />
+      <img src="github/img/mysql.svg" width="48" height="48" alt="MySQL" />
       </a>
       <span>MySQL</span>
     </td>
@@ -55,32 +56,32 @@
     <tr>
     <td align="center" width="96">
       <a target="_blank" href="https://www.python.org/">
-      <img src=".github/img/python.svg" width="48" height="48" alt="Python" />
+      <img src="github/img/python.svg" width="48" height="48" alt="Python" />
       </a>
       <span>Python</span>
     </td>
     </td>
       <td align="center" width="96">
       <a href="https://www.figma.com/">
-      <img src=".github/img/figma.svg" width="48" height="48" alt="Figma" />
+      <img src="github/img/figma.svg" width="48" height="48" alt="Figma" />
       </a>
       <span>Figma</span>
     </td>
       <td align="center" width="96">
       <a href="https://www.adobe.com/br/products/photoshop.html">
-      <img src=".github/img/photoshop.svg" width="48" height="48" alt="Photoshop" />
+      <img src="github/img/photoshop.svg" width="48" height="48" alt="Photoshop" />
       </a>
       <span>Photoshop</span>
     </td>
       <td align="center" width="96">
       <a href="https://www.adobe.com/br/products/premiere.html">
-      <img src=".github/img/premiere.svg" width="48" height="48" alt="Premiere" />
+      <img src="github/img/premiere.svg" width="48" height="48" alt="Premiere" />
       </a>
       <span>Premiere</span>
     </td>
       <td align="center" width="96">
       <a href="https://trello.com/pt-BR">
-      <img src=".github/img/trello.svg" width="48" height="48" alt="Trello" />
+      <img src="github/img/trello.svg" width="48" height="48" alt="Trello" />
       </a>
       <span>Trello</span>
     </td>
