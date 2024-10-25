@@ -19,7 +19,7 @@
 [![React Badge](https://img.shields.io/badge/React-66278b?style=flat&logo=react&logoColor=white)](https://pt.wikipedia.org/wiki/React_(JavaScript))
 #
 
-### Linguagens que tive contato/uso
+### Linguagens que tive contato/uso 🤖
 <table>
   <tr>
     <td align="center" width="96">
@@ -45,14 +45,14 @@
       </a>
       <span>Boostrap</span>
     </td>    
-  </tr>
-  <tr>
       <td align="center" width="96">
       <a target="_blank" href="https://www.mysql.com/">
       <img src=".github/img/mysql.png" width="48" height="48" alt="MySQL" />
       </a>
       <span>MySQL</span>
     </td>
+  </tr>
+    <tr>
     <td align="center" width="96">
       <a target="_blank" href="https://www.python.org/">
       <img src=".github/img/python.svg" width="48" height="48" alt="Python" />
@@ -62,9 +62,27 @@
     </td>
       <td align="center" width="96">
       <a href="https://www.figma.com/">
-      <img src=".github/img/figma.svg" width="48" height="48" alt="PHP" />
+      <img src=".github/img/figma.svg" width="48" height="48" alt="Figma" />
       </a>
       <span>Figma</span>
+    </td>
+      <td align="center" width="96">
+      <a href="https://www.adobe.com/br/products/photoshop.html">
+      <img src=".github/img/photoshop.svg" width="48" height="48" alt="Photoshop" />
+      </a>
+      <span>Photoshop</span>
+    </td>
+      <td align="center" width="96">
+      <a href="https://www.adobe.com/br/products/premiere.html">
+      <img src=".github/img/premiere.svg" width="48" height="48" alt="Premiere" />
+      </a>
+      <span>Premiere</span>
+    </td>
+      <td align="center" width="96">
+      <a href="https://trello.com/pt-BR">
+      <img src=".github/img/trello.svg" width="48" height="48" alt="Trello" />
+      </a>
+      <span>Trello</span>
     </td>
   </tr>
 </table>
