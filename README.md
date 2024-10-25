@@ -8,7 +8,7 @@
 <li>🏫 Etec SJC - 1°DS</li>
 <li>🔮 Pretendo ser Full Stack + Mobile dev</li>
 <li>📫 Como me encontrar: <a href="mailto:imfenyx.dev@outlook.com"><img align="center" src="https://img.shields.io/badge/EMAIL-D14836?&style=for-the-badge&logo=gmail&logoColor=white&color=66278b"></a></li>
-<li>:godmode: Quando criança, começava a inspecionar códigos HTML dos sites por curiosidade e otimizar o windows através de algoritmos em Batch. Com a paixão pelo frontend/backend, estudo frequentemente programção web, cybersegurança e TI.</li>
+<li align="justify">:godmode: Quando criança, começava a inspecionar códigos HTML dos sites por curiosidade e otimizar o windows através de algoritmos em Batch. Com a paixão pelo frontend/backend, estudo frequentemente programção web, cybersegurança e TI.</li>
 </ul>
 
 ### Focos atuais 🌻
@@ -19,7 +19,7 @@
 [![React Badge](https://img.shields.io/badge/React-66278b?style=flat&logo=react&logoColor=white)](https://pt.wikipedia.org/wiki/React_(JavaScript))
 #
 
-### Linguagens que tive contato
+### Linguagens que tive contato/uso
 <table>
   <tr>
     <td align="center" width="96">
@@ -49,9 +49,22 @@
   <tr>
       <td align="center" width="96">
       <a target="_blank" href="https://www.mysql.com/">
-      <img src=".github/img/mysql.png" width="48" height="48" alt="PHP" />
+      <img src=".github/img/mysql.png" width="48" height="48" alt="MySQL" />
       </a>
       <span>MySQL</span>
+    </td>
+    <td align="center" width="96">
+      <a target="_blank" href="https://www.python.org/">
+      <img src=".github/img/python.svg" width="48" height="48" alt="Python" />
+      </a>
+      <span>Python</span>
+    </td>
+    </td>
+      <td align="center" width="96">
+      <a href="https://www.figma.com/">
+      <img src=".github/img/figma.svg" width="48" height="48" alt="PHP" />
+      </a>
+      <span>Figma</span>
     </td>
   </tr>
 </table>
