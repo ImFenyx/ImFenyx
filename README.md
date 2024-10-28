@@ -19,7 +19,7 @@
 [![React Badge](https://img.shields.io/badge/React-66278b?style=flat&logo=react&logoColor=white)](https://pt.wikipedia.org/wiki/React_(JavaScript))
 #
 
-### Linguagens que tive contato/uso 🤖
+### Linguagens + Tecnologias que uso/tive contato 🤖
 <table>
   <tr>
     <td align="center" width="96">
