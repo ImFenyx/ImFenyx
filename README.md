@@ -89,6 +89,20 @@
   </tr>
 </table>
 
+### Sistemas que uso
+<table>
+  <tr>
+    <td align="center" width="96">
+<img src="github/img/windows.svg" width="48" height="48">
+      <span><b>Windows 11</b></span>
+      </td>
+    <td align="center" width="96">
+<img src="github/img/archlinux-color.svg" width="48" height="48">
+      <span><b>Arch Linux</b> <i>(btw)</i></span>
+      </td>
+    </tr>
+</table>
+
 ### Novo participante da <a href="https://www.instagram.com/etechnology_8276">Etechnology #8246</a> - Equipe da <a href="https://www.firstinspires.org/">First</a> 💜
 <br>
 <img width="20%" src="https://avatars.githubusercontent.com/u/148716998">
