@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=500&color=9933CC&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Fenyx;Welcome+to+my+Github!" alt="Typing SVG" /></a>
 <div>
 
-#
+---
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ns73zcurunyzgpjd7belti5omm&redirect=true"><img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ns73zcurunyzgpjd7belti5omm&cover_image=true&theme=default&show_offline=false&background_color=66278b&interchange=true&bar_color=320064&bar_color_cover=false" width="25%"/></a>
 <li>🔭 Não estou trabalhando</li>
 <li>🏫 Etec SJC - 1°DS</li>
@@ -17,7 +17,8 @@
 [![HTML Badge](https://img.shields.io/badge/HTML-66278b?style=flat&logo=html5&logoColor=white)](https://pt.wikipedia.org/wiki/HTML)
 [![CSS Badge](https://img.shields.io/badge/CSS-66278b?style=flat&logo=css3&logoColor=white)](https://pt.wikipedia.org/wiki/CSS)
 [![React Badge](https://img.shields.io/badge/React-66278b?style=flat&logo=react&logoColor=white)](https://pt.wikipedia.org/wiki/React_(JavaScript))
-#
+
+---
 
 ### Linguagens + Tecnologias que uso/tive contato 🤖
 <table>
@@ -93,7 +94,7 @@
 <img width="20%" src="https://avatars.githubusercontent.com/u/148716998">
 <img height="118.93px" src="https://github.com/ImFenyx/ImFenyx/assets/103691581/a987cad0-8bd0-4f6e-8b81-10ba8b7d4f07">
 
-#
+---
 
 ### Estatísticas + Streak 🥇
 <div>
@@ -102,10 +103,11 @@
   <img width="720px" src="https://streak-stats.demolab.com?user=ImFenyx&theme=midnight-purple&hide_border=false&border_radius=5&locale=pt_BR">
 </div>
 
-#
+---
 ### Contribuições 🌱
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ImFenyx&bg_color=000000&color=9745f5&line=9745f5&point=737272&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
 ### Visitas 🚪
 ![https://count.getloli.com/@:ImFenyx](https://count.getloli.com/@ImFenyx?name=ImFenyx&theme=booru-helltaker&pixelated=0)
 
