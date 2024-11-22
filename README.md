@@ -86,6 +86,14 @@
       </a>
       <span>Trello</span>
     </td>
+  <tr>
+        <td align="center" width="96">
+      <a href="https://react.dev/">
+      <img src="github/img/react-color.svg" width="48" height="48" alt="Trello" />
+      </a>
+      <span>React</span>
+    </td>
+    </tr>
   </tr>
 </table>
 
