@@ -87,14 +87,19 @@
       <span>Trello</span>
     </td>
   <tr>
-        <td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://react.dev/">
-      <img src="github/img/react-color.svg" width="48" height="48" alt="Trello" />
+      <img src="github/img/react.svg" width="48" height="48" alt="Trello" />
       </a>
       <span>React</span>
     </td>
+    <td align="center" width="96">
+      <a href="https://react.dev/">
+      <img src="https://avatars.githubusercontent.com/u/169223740?s=200&v=4" width="48" height="48" alt="Ghostty" />
+      </a>
+      <span>Ghostty</span>
+    </td>
     </tr>
-  </tr>
 </table>
 
 ### Sistemas que uso
@@ -105,15 +110,13 @@
       <span><b>Windows 11</b></span>
       </td>
     <td align="center" width="96">
-<img src="github/img/archlinux-color.svg" width="48" height="48">
+<img src="github/img/archlinux.svg" width="48" height="48">
       <span><b>Arch Linux</b> <i>(btw)</i></span>
       </td>
     </tr>
 </table>
 
-### Novo participante da <a href="https://www.instagram.com/etechnology_8276">Etechnology #8246</a> - Equipe da <a href="https://www.firstinspires.org/">First</a> 💜
-<br>
-<img width="20%" src="https://avatars.githubusercontent.com/u/148716998">
+### Estudante do 2° ano do Ensino Médio Técnico
 <img height="118.93px" src="https://github.com/ImFenyx/ImFenyx/assets/103691581/a987cad0-8bd0-4f6e-8b81-10ba8b7d4f07">
 
 ---
