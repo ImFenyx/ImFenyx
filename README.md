@@ -5,7 +5,7 @@
 ---
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ns73zcurunyzgpjd7belti5omm&redirect=true"><img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ns73zcurunyzgpjd7belti5omm&cover_image=true&theme=default&show_offline=false&background_color=66278b&interchange=true&bar_color=320064&bar_color_cover=false" width="25%"/></a>
 <li>🔭 Não estou trabalhando</li>
-<li>🏫 Etec SJC - 1°DS</li>
+<li>🏫 Etec SJC - 2°DS</li>
 <li>🔮 Pretendo ser Full Stack + Mobile dev</li>
 <li>📫 Como me encontrar: <a href="mailto:imfenyx.dev@outlook.com"><img align="center" src="https://img.shields.io/badge/EMAIL-D14836?&style=for-the-badge&logo=gmail&logoColor=white&color=66278b"></a></li>
 <li align="justify">:godmode: Quando criança, começava a inspecionar códigos HTML dos sites por curiosidade e otimizar o windows através de algoritmos em Batch. Com a paixão pelo frontend/backend, estudo frequentemente programção web, cybersegurança e TI.</li>
