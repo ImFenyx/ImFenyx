@@ -3,7 +3,9 @@
 <div>
 
 ---
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ns73zcurunyzgpjd7belti5omm&redirect=true"><img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ns73zcurunyzgpjd7belti5omm&cover_image=true&theme=default&show_offline=false&background_color=66278b&interchange=true&bar_color=320064&bar_color_cover=false" width="25%"/></a>
+<!-- Unnescessary Tag
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ns73zcurunyzgpjd7belti5omm&redirect=true"><img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ns73zcurunyzgpjd7belti5omm&cover_image=true&theme=default&show_offline=false&background_color=66278b&interchange=true&bar_color=320064&bar_color_cover=false" width="25%"/></a> -->
 <li>🔭 Não estou trabalhando</li>
 <li>🏫 Etec SJC - 2°DS</li>
 <li>🔮 Pretendo ser Full Stack + Mobile dev</li>
