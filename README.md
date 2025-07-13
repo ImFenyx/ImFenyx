@@ -58,7 +58,7 @@
 </div>
 
 <center>
-<div>
+<div align='center'>
 
 <h2>Meu ambiente de trabalho</h2>
 
@@ -100,7 +100,7 @@ Pretendo Usar:
 
 </div>
 
-<div>
+<div align='center'>
 <h2>Estastísticas</h2>
 
 <img height='200px' src='https://github-readme-stats.vercel.app/api?username=ImFenyx&show_icons=true&theme=catppuccin_mocha&title_color=cba6f7'>
