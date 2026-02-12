@@ -12,8 +12,8 @@
 
 </center>
 
-<h1 align='center'>Olá, eu sou Iago Anjos</h1>
-<p align='justify'>Estudante de Desenolvimento de Sistemas, cursando segundo ano na Etec São José dos Campos. Sou entusiasta na aplicação da tecnologia e suas colaborações com a sociedade. Meu principal objetivo é contribuir ativamente em <b>projetos impactantes e inovadores</b>. Possuo foco em <b>produtividade, trabalho em equipe, otimização e segurança.</b></p>
+<h1 align='center'>Olá, eu sou Iago Anjos da Silva</h1>
+<p align='justify'>Estudante de Desenolvimento de Sistemas, cursando terceiro ano na Etec São José dos Campos. Sou entusiasta na aplicação da tecnologia e suas colaborações com a sociedade. Meu principal objetivo é contribuir ativamente em <b>projetos impactantes e inovadores</b>. Possuo foco em <b>produtividade, trabalho em equipe, otimização e segurança.</b> Meu objetivo é impulsionar ativamente o movimento do software livre.</p>
 
 <center>
 <div>
@@ -34,6 +34,8 @@
 <img alt="Static Badge" align='center' src="https://img.shields.io/badge/Trello-cba6f7?style=flat&logo=trello&logoColor=cba6f7&labelColor=1e1e2e">
 |
 <img alt="Static Badge" align='center' src="https://img.shields.io/badge/Figma-cba6f7?style=flat&logo=figma&logoColor=cba6f7&labelColor=1e1e2e">
+|
+<img alt="Static Badge" align='center' src="https://img.shields.io/badge/TailwindCSS-cba6f7?style=flat&logo=tailwindcss&logoColor=cba6f7&labelColor=1e1e2e">
 </div>
 
 </center>
@@ -86,6 +88,7 @@ Uso:
 <img height="64" width='64' src="https://cdn.simpleicons.org/css/cba6f7" alt='CSS'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/tailwindcss/cba6f7" alt='Tailwind CSS'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/mysql/cba6f7" alt='MySQL'/>
+<img height="64" width='64' src="https://cdn.simpleicons.org/postgresql/cba6f7" alt='PostgreSQL'/>
 
 Pretendo Usar:
 
@@ -97,14 +100,15 @@ Pretendo Usar:
 <img height="64" width='64' src="https://cdn.simpleicons.org/vite/cba6f7" alt='Vite'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/react/cba6f7" alt='React'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/sass/cba6f7" alt='Sass'/>
+<img height="64" width='64' src="https://cdn.simpleicons.org/nextdotjs/cba6f7" alt='Next.JS'/>
 
 </div>
 
 <div align='center'>
 <h2>Estastísticas</h2>
 
-<img height='200px' src='https://github-readme-stats.vercel.app/api?username=ImFenyx&show_icons=true&theme=catppuccin_mocha&title_color=cba6f7'>
-<img height='200px' src='https://github-readme-stats.vercel.app/api/top-langs?username=ImFenyx&show_icons=true&theme=catppuccin_mocha&title_color=cba6f7&layout=compact&langs_count=8&card_width=320'>
+<!-- --> <img height='200px' src='https://github-readme-stats.vercel.app/api?username=ImFenyx&show_icons=true&theme=catppuccin_mocha&title_color=cba6f7'>
+<!-- --> <img height='200px' src='https://github-readme-stats.vercel.app/api/top-langs?username=ImFenyx&show_icons=true&theme=catppuccin_mocha&title_color=cba6f7&layout=compact&langs_count=8&card_width=320'>
 
 <img height='305px' src='https://github-readme-activity-graph.vercel.app/graph?username=ImFenyx&radius=16&bg_color=1e1e2e&color=cba6f7&line=cba6f7'>
 </div>
