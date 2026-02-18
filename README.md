@@ -13,7 +13,7 @@
 </center>
 
 <h1 align='center'>Olá, eu sou Iago Anjos da Silva</h1>
-<p align='justify'>Estudante de Desenolvimento de Sistemas, cursando terceiro ano na Etec São José dos Campos. Sou entusiasta na aplicação da tecnologia e suas colaborações com a sociedade. Meu principal objetivo é contribuir ativamente em <b>projetos impactantes e inovadores</b>. Possuo foco em <b>produtividade, trabalho em equipe, otimização e segurança.</b> Meu objetivo é impulsionar ativamente o movimento do software livre.</p>
+<p align='justify'>Estudante de Desenvolvimento de Sistemas, cursando terceiro ano na Etec São José dos Campos. Sou entusiasta na aplicação da tecnologia e suas colaborações com a sociedade. Meu principal objetivo é contribuir ativamente em <b>projetos impactantes e inovadores</b>. Possuo foco em <b>produtividade, trabalho em equipe, otimização e segurança.</b> Meu objetivo é impulsionar ativamente o movimento do software livre.</p>
 
 <center>
 <div>
