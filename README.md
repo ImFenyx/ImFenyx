@@ -109,6 +109,6 @@ Pretendo Usar:
 <img height='165px' src='https://fenyx-github-readme-stats.vercel.app/api?username=ImFenyx&show_icons=true&theme=catppuccin_mocha&title_color=cba6f7'>
 <img height='300px' src='https://fenyx-github-readme-stats.vercel.app/api/top-langs?username=ImFenyx&show_icons=true&theme=catppuccin_mocha&title_color=cba6f7&layout=compact&langs_count=8&card_width=400'>
 
-<img height='305px' src='https://github-readme-activity-graph.vercel.app/graph?username=ImFenyx&radius=16&bg_color=1e1e2e&color=cba6f7&line=cba6f7'>
+<img height='280px' src='https://github-readme-activity-graph.vercel.app/graph?username=ImFenyx&radius=16&bg_color=1e1e2e&color=cba6f7&line=cba6f7'>
 </div>
 </center>
