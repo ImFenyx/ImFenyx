@@ -55,7 +55,7 @@
 
 **Grupo**
 
-<a href='https://github.com/xvierdev/EGProj'><b>EGProj</b></a> - Projeto de ensino da lingua inglesa em Python
+<a href='https://github.com/xvierdev/EGProj'><b>EGProj</b></a> - Projeto de ensino da língua inglesa em Python
 
 </div>
 
@@ -105,7 +105,7 @@ Pretendo Usar:
 </div>
 
 <div align='center'>
-<h2>Estastísticas</h2>
+<h2>Estatísticas</h2>
 <img height='200px' src='https://fenyx-github-readme-stats.vercel.app/api?username=ImFenyx&show_icons=true&theme=catppuccin_mocha&title_color=cba6f7'>
 <img height='200px' src='https://fenyx-github-readme-stats.vercel.app/api/top-langs?username=ImFenyx&show_icons=true&theme=catppuccin_mocha&title_color=cba6f7&layout=compact&langs_count=8&card_width=320'>
 
