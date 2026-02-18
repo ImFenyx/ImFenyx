@@ -106,9 +106,8 @@ Pretendo Usar:
 
 <div align='center'>
 <h2>Estastísticas</h2>
-
-<!-- --> <img height='200px' src='https://github-readme-stats.vercel.app/api?username=ImFenyx&show_icons=true&theme=catppuccin_mocha&title_color=cba6f7'>
-<!-- --> <img height='200px' src='https://github-readme-stats.vercel.app/api/top-langs?username=ImFenyx&show_icons=true&theme=catppuccin_mocha&title_color=cba6f7&layout=compact&langs_count=8&card_width=320'>
+<img height='200px' src='https://fenyx-github-readme-stats.vercel.app/api?username=ImFenyx&show_icons=true&theme=catppuccin_mocha&title_color=cba6f7'>
+<img height='200px' src='https://fenyx-github-readme-stats.vercel.app/api/top-langs?username=ImFenyx&show_icons=true&theme=catppuccin_mocha&title_color=cba6f7&layout=compact&langs_count=8&card_width=320'>
 
 <img height='305px' src='https://github-readme-activity-graph.vercel.app/graph?username=ImFenyx&radius=16&bg_color=1e1e2e&color=cba6f7&line=cba6f7'>
 </div>
